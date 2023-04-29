@@ -31,12 +31,7 @@ function onWindowResize() {
 
 function animate() {
     requestAnimationFrame(animate)
-
-    cube.rotation.x += 0.02
-    cube.rotation.y += 0.01
-
     controls.update()
-
     render()
 }
 
