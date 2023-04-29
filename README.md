@@ -20,10 +20,6 @@ This boilerplate is supplementary to my book titled **Three.js and TypeScript** 
 
 and my **ThreeJS and TypeScript** courses at [Udemy](https://www.udemy.com/course/threejs-tutorials/?referralCode=4C7E1DE91C3E42F69D0F), [YouTube (Channel membership required)](https://www.youtube.com/playlist?list=PLKWUX7aMnlEKTmkBqwjc-tZgULJdNBjEd) and [Skillshare](https://skl.sh/2uxctEP)
 
-It is only just the beginning of what you will create.
-
-Course Discount Coupons : https://sbcode.net/coupons#threejs
-
 ## Boilerplate Overview
 
 When run, the boilerplate shows a green wireframe rotating cube, with OrbitControls included.
