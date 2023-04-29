@@ -34,25 +34,7 @@ Both server and client projects are written in TypeScript.
 
 ## Installing
 
-1. Clone Repository
-
-```bash
-git clone https://github.com/Sean-Bradley/Three.js-TypeScript-Boilerplate.git
-```
-
-2. CD into folder
-
-```bash
-cd Three.js-TypeScript-Boilerplate
-```
-
-3. Install TypeScript
-
-```bash
-npm install -g typescript
-```
-
-4. Install dependencies
+1. Install dependencies
 
 ```bash
 npm install
